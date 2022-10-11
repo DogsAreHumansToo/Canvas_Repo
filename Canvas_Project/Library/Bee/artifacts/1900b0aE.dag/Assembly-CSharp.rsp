@@ -400,7 +400,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/CameraGameFollow.cs"
 "Assets/Scripts/CharacterController2D.cs"
-"Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/Scroller.cs"
 -langversion:9.0
 
